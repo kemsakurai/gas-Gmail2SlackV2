@@ -1,0 +1,12 @@
+{
+  "initialSetting": "Initial setting",
+  "createConfigSheets": "Create config sheets",
+  "inputWebhookURL": "Input webhook URL",
+  "sendEmailToSlack": "Send email to Slack",
+  "scheduleExecution": "Schedule execution",
+  "createSchedule": "Create schedule",
+  "youGotMail": "You got mail.",
+  "receptionTime": "Reception Time",
+  "tag": "Tag",
+  "webhookURLIsNotSet": "Webhook URL is not set. Set the webhook URL."
+}
